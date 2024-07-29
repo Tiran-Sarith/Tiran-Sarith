@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-But i like to do more changes
+But i dont like to do more changes
+lets do some changes
+let us do the third change
