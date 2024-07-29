@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 -->
 
 But i dont like to do more changes
-lets does some changes
+
+lets do some changes to this
+
 let us do the third change
 
 after changing to the new branch
 
-2nd test for branch
+
 
 4th test added to branch 1
+3rd test for branch
+
