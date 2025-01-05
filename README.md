@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width = 150px></p>
 <h1 align="center">Hi 👋, I'm Tiran Wijerathne</h1>
 <h3 align="center">Code enthusiast | Full-stack developer with a passion for perfection</h3>
 
