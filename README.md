@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width = 150px></p>
-<h1 align="center">Hi 👋, I'm Tiran Wijerathne</h1>
+<h1 align="center">Hi👋, I'm Tiran Wijerathne</h1>
 <h3 align="center">Code enthusiast | Full-stack developer with a passion for perfection</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiran-sarith&label=Profile%20views&color=0e75b6&style=flat" alt="tiran-sarith" /> </p>
