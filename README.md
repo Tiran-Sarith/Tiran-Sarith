@@ -32,9 +32,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/tiran-wijerathne-b2258b227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiran wijerathne" height="30" width="40" /></a>
-<a href="https://fb.com/tiran sarith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tiran sarith" height="30" width="40" /></a>
-<a href="https://instagram.com/tiran sarith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiran sarith" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tiran wijeratne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tiran wijeratne" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tiran.sarith?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tiran sarith" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tiran_sarith?igsh=MWZucWQycTU1cmphNA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiran sarith" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/EG_2021_4874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tiran wijeratne" height="30" width="40" /></a>
 </p>
 
 ---
